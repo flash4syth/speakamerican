@@ -1,11 +1,13 @@
-# SA
+# Speak American!
+## (English that is)
 
 Inspired by [this video clip](https://youtu.be/sFCkywDgjQQ)
 
 (Not really, but great inspiration no?)
 
-This project was really inspired by a desire to improve documentation of Github projects, written by, mostly, non-native
-English speakers to flow more naturally to a native English speaker's ears (or eyes) from the United States (American of course more accurately including North, Central, and South Americans).  The first goal is intended to focus on spelling correction, followed by adjusting the style of phrasing to be, well, pardon the ignorance, American!
+This project was really inspired by a desire to improve native American English speakers'
+ reading experience of Elixir documentation which targets that audience and is written by, presumably, non-native
+English speakers.  The term `American` of course more accurately includes North, Central, and South Americans.  The first goal is intended to focus on spelling correction, followed by help to adjust the style of phrasing to be, well, pardon the ignorance, American!
 
 To start your Phoenix app:
 
